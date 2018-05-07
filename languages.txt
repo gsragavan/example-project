@@ -1,4 +1,5 @@
-typescript
+typescrip
+t
 java
 kotlin
 scala
